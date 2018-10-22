@@ -7,3 +7,6 @@
 This Repo has all the notes taken by Rawle's for lighthouse.
 
 [google](https://www.google.com)
+
+#Week 1
+	##Day 1
